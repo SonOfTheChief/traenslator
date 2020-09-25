@@ -1,0 +1,2 @@
+# traenslator
+German -> Swiss-German
